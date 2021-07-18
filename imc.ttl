@@ -1,0 +1,262 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix imc: <https://dalstonsemantics.com/sta/cfa/imc/> .
+@prefix pav: <http://purl.org/pav/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+imc:0002 a skos:Concept ;
+    skos:broader imc:0001 ;
+    skos:inScheme imc:scheme ;
+    skos:prefLabel "Objectives identification" .
+
+imc:0003 a skos:Concept ;
+    skos:broader imc:0001 ;
+    skos:inScheme imc:scheme ;
+    skos:prefLabel "Economic balance sheet creation" .
+
+imc:0004 a skos:Concept ;
+    skos:broader imc:0001 ;
+    skos:inScheme imc:scheme ;
+    skos:prefLabel "Constraint identification" .
+
+imc:0005 a skos:Concept ;
+    skos:broader imc:0001 ;
+    skos:inScheme imc:scheme ;
+    skos:prefLabel "Preferences identification" .
+
+imc:0007 a skos:Concept ;
+    skos:broader imc:0006 ;
+    skos:inScheme imc:scheme ;
+    skos:prefLabel "Objectives documentation" .
+
+imc:0008 a skos:Concept ;
+    skos:broader imc:0006 ;
+    skos:inScheme imc:scheme ;
+    skos:prefLabel "Constraint documentation" .
+
+imc:0009 a skos:Concept ;
+    skos:broader imc:0006 ;
+    skos:inScheme imc:scheme ;
+    skos:prefLabel "Responsibilities documentation" .
+
+imc:0010 a skos:Concept ;
+    skos:broader imc:0006 ;
+    skos:inScheme imc:scheme ;
+    skos:prefLabel "Review frequency documentation" .
+
+imc:0011 a skos:Concept ;
+    skos:broader imc:0006 ;
+    skos:inScheme imc:scheme ;
+    skos:prefLabel "Rebalancing policy documentation" .
+
+imc:0012 a skos:Concept ;
+    skos:broader imc:0006 ;
+    skos:inScheme imc:scheme ;
+    skos:prefLabel "Principles documentation" .
+
+imc:0014 a skos:Concept ;
+    skos:broader imc:0013 ;
+    skos:inScheme imc:scheme ;
+    skos:prefLabel "Objectives monitoring" .
+
+imc:0015 a skos:Concept ;
+    skos:broader imc:0013 ;
+    skos:inScheme imc:scheme ;
+    skos:prefLabel "Economic balance sheet monitoring" .
+
+imc:0016 a skos:Concept ;
+    skos:broader imc:0013 ;
+    skos:inScheme imc:scheme ;
+    skos:prefLabel "Constraint monitoring" .
+
+imc:0017 a skos:Concept ;
+    skos:broader imc:0013 ;
+    skos:inScheme imc:scheme ;
+    skos:prefLabel "Preferences monitoring" .
+
+imc:0019 a skos:Concept ;
+    skos:broader imc:0018 ;
+    skos:inScheme imc:scheme ;
+    skos:prefLabel "Financial market research" .
+
+imc:0020 a skos:Concept ;
+    skos:broader imc:0018 ;
+    skos:inScheme imc:scheme ;
+    skos:prefLabel "Economic research" .
+
+imc:0021 a skos:Concept ;
+    skos:broader imc:0018 ;
+    skos:inScheme imc:scheme ;
+    skos:prefLabel "Social research" .
+
+imc:0022 a skos:Concept ;
+    skos:broader imc:0018 ;
+    skos:inScheme imc:scheme ;
+    skos:prefLabel "Political research" .
+
+imc:0023 a skos:Concept ;
+    skos:broader imc:0018 ;
+    skos:inScheme imc:scheme ;
+    skos:prefLabel "Sector research" .
+
+imc:0024 a skos:Concept ;
+    skos:broader imc:0018 ;
+    skos:inScheme imc:scheme ;
+    skos:prefLabel "Company research" .
+
+imc:0025 a skos:Concept ;
+    skos:broader imc:0018 ;
+    skos:inScheme imc:scheme ;
+    skos:prefLabel "Asset class identification" .
+
+imc:0026 a skos:Concept ;
+    skos:broader imc:0018 ;
+    skos:inScheme imc:scheme ;
+    skos:prefLabel "Factor identification" .
+
+imc:0028 a skos:Concept ;
+    skos:broader imc:0027 ;
+    skos:inScheme imc:scheme ;
+    skos:prefLabel "Public equity prices" .
+
+imc:0029 a skos:Concept ;
+    skos:broader imc:0027 ;
+    skos:inScheme imc:scheme ;
+    skos:prefLabel "Private equity prices and valuations" .
+
+imc:0030 a skos:Concept ;
+    skos:broader imc:0027 ;
+    skos:inScheme imc:scheme ;
+    skos:prefLabel "Fixed income prices" .
+
+imc:0031 a skos:Concept ;
+    skos:broader imc:0027 ;
+    skos:inScheme imc:scheme ;
+    skos:prefLabel "Real assets prices and valuations" .
+
+imc:0032 a skos:Concept ;
+    skos:broader imc:0027 ;
+    skos:inScheme imc:scheme ;
+    skos:prefLabel "Foreign exchange prices" .
+
+imc:0034 a skos:Concept ;
+    skos:broader imc:0033 ;
+    skos:inScheme imc:scheme ;
+    skos:prefLabel "Asset-only strategic allocation" .
+
+imc:0035 a skos:Concept ;
+    skos:broader imc:0033 ;
+    skos:inScheme imc:scheme ;
+    skos:prefLabel "Liability-relative strategic allocation" .
+
+imc:0036 a skos:Concept ;
+    skos:broader imc:0033 ;
+    skos:inScheme imc:scheme ;
+    skos:prefLabel "Goal-based strategic allocation" .
+
+imc:0037 a skos:Concept ;
+    skos:broader imc:0033 ;
+    skos:inScheme imc:scheme ;
+    skos:prefLabel "Mean Variance Optimization" .
+
+imc:0038 a skos:Concept ;
+    skos:broader imc:0033 ;
+    skos:inScheme imc:scheme ;
+    skos:prefLabel "Monte Carlo Simulation" .
+
+imc:0039 a skos:Concept ;
+    skos:broader imc:0033 ;
+    skos:inScheme imc:scheme ;
+    skos:note "Omits capabilities such as tactical allocation and tax optimization rule management" ;
+    skos:prefLabel "Active implementation choices management" .
+
+imc:0040 a skos:Concept ;
+    skos:broader imc:0033 ;
+    skos:inScheme imc:scheme ;
+    skos:prefLabel "Passive implementation choices management" .
+
+imc:0041 a skos:Concept ;
+    skos:broader imc:0033 ;
+    skos:inScheme imc:scheme ;
+    skos:prefLabel "Manager selection" .
+
+imc:0042 a skos:Concept ;
+    skos:broader imc:0033 ;
+    skos:inScheme imc:scheme ;
+    skos:note "Omits capability such as management of the model portfolios" ;
+    skos:prefLabel "Individual security selection" .
+
+imc:0043 a skos:Concept ;
+    skos:broader imc:0033 ;
+    skos:inScheme imc:scheme ;
+    skos:note "Omits capabilities such as order and position management" ;
+    skos:prefLabel "Execution of portfolio decisions" .
+
+imc:0045 a skos:Concept ;
+    skos:broader imc:0044 ;
+    skos:inScheme imc:scheme ;
+    skos:note "Omits capabilities such as execution cost monitoring and reporting" ;
+    skos:prefLabel "Evaluate progress towards achieving objectives and compliance with IPS" .
+
+imc:0046 a skos:Concept ;
+    skos:broader imc:0044 ;
+    skos:inScheme imc:scheme ;
+    skos:prefLabel "Manager-level performance and risk evaluation and reporting" .
+
+imc:0047 a skos:Concept ;
+    skos:broader imc:0044 ;
+    skos:inScheme imc:scheme ;
+    skos:prefLabel "Asset class-level performance and risk evaluation and reporting" .
+
+imc:0048 a skos:Concept ;
+    skos:broader imc:0044 ;
+    skos:inScheme imc:scheme ;
+    skos:prefLabel "Fund-level performance and risk evaluation and reporting" .
+
+imc:0049 a skos:Concept ;
+    skos:inScheme imc:scheme ;
+    skos:prefLabel "Investment governance" ;
+    skos:topConceptOf imc:scheme .
+
+imc:0001 a skos:Concept ;
+    skos:inScheme imc:scheme ;
+    skos:prefLabel "Objectives and constraints identification" ;
+    skos:topConceptOf imc:scheme .
+
+imc:0013 a skos:Concept ;
+    skos:inScheme imc:scheme ;
+    skos:prefLabel "Objectives and constraints monitoring" ;
+    skos:topConceptOf imc:scheme .
+
+imc:0044 a skos:Concept ;
+    skos:inScheme imc:scheme ;
+    skos:note "Omits capabilities such as rebalancing rules management" ;
+    skos:prefLabel "Rebalancing" ;
+    skos:topConceptOf imc:scheme .
+
+imc:0027 a skos:Concept ;
+    skos:inScheme imc:scheme ;
+    skos:note "Omits capabilities such as monitoring of the corporate actions" ;
+    skos:prefLabel "Prices and markets monitoring" ;
+    skos:topConceptOf imc:scheme .
+
+imc:0006 a skos:Concept ;
+    skos:inScheme imc:scheme ;
+    skos:prefLabel "Investment Policy Statement documentation" ;
+    skos:topConceptOf imc:scheme .
+
+imc:0018 a skos:Concept ;
+    skos:inScheme imc:scheme ;
+    skos:prefLabel "Capital markets expectations development" ;
+    skos:topConceptOf imc:scheme .
+
+imc:0033 a skos:Concept ;
+    skos:inScheme imc:scheme ;
+    skos:note "Omits capabilities such as asset owner account management" ;
+    skos:prefLabel "Portfolio structuring" ;
+    skos:topConceptOf imc:scheme .
+
+imc:scheme a skos:ConceptScheme ;
+    dcterms:source <https://www.cfainstitute.org/en/programs/cfa/exam/level-iii> ;
+    pav:version "0.0.1" ;
+    skos:prefLabel "Investment Management Capability Model" .
+
