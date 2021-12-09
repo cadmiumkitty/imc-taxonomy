@@ -1,8 +1,8 @@
 # Investment Management Capbilities Taxonomy
 
-Investment Management Capability Model is a taxonomy is based on [CFA Program Curriculum 2020 Level III Reading 12](https://www.cfainstitute.org/en/programs/cfa/exam/level-iii) that describes capabilities of an investment management firm.
+Investment Management Capability Model is a taxonomy is based on [CFA Program Curriculum 2022 Level III Volume 1 Reading 5](https://www.cfainstitute.org/en/programs/cfa/exam/level-iii) that describes capabilities of an investment management firm.
 
-Use it with [Taxonomies for Confluence](https://dalstonsemantics.com/services/taxonomies-for-confluence/) to index [Confluence](https://www.atlassian.com/software/confluence) pages and track alignment with well-known capability models.
+Use it with [Taxonomies for Confluence](https://dalstonsemantics.com/services/taxonomies-for-confluence/) to track alignment of enterprise architecture or risk and compliance documentation in [Confluence](https://www.atlassian.com/software/confluence).
 
 ![IMC in Taxonomies for Confluence](imc-confluence.png "IMC in Taxonomies for Confluence")
 
