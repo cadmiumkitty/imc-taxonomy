@@ -1,4 +1,4 @@
-# Investment Management Capbilities Taxonomy
+# Investment Management Capabilities Taxonomy
 
 Investment Management Capability Model is a taxonomy is based on [CFA Program Curriculum 2022 Level III Volume 1 Reading 5](https://www.cfainstitute.org/en/programs/cfa/exam/level-iii) that describes capabilities of an investment management firm.
 
